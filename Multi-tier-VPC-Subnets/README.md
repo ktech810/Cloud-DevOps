@@ -5,9 +5,9 @@ I built a multi-tier custom VPC configured to use the IP address range of the US
 I also created an Internet GW to give resources in the VPC public access. I created a NAT GWs to give private instances outgoing only access.
 
 
-The following below is a list of all the details of the subnets I used to create my custom VPC.
+<b><h3>The following below is a list of all the details of the subnets I used to create my custom VPC.</b></h3>
 
-<b><h3>We have 4 subnets: sn-reserved, sn-db, sn-app, and sn-web across 3 AZs, A, B and C.</b></h3>
+We have 4 subnets: <b>sn-reserved<.b>, <b>sn-db</b>, <b>sn-app</b>, and <b>sn-web</b> across 3 AZs, A, B and C.
 
 sn-reserved-A 10.16.0.0/20 AZA IPv6 00
 sn-db-A 10.16.16.0/20 AZA IPv6 01
