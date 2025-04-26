@@ -23,3 +23,7 @@ sn-reserved-C 10.16.128.0/20 AZC IPv6 08
 sn-db-C 10.16.144.0/20 AZC IPv6 09
 sn-app-C 10.16.160.0/20 AZC IPv6 0A
 sn-web-C 10.16.176.0/20 AZC IPv6 0B
+
+Within the VPC I created a subnet for each tier:
+
+![SN-Reserved-A](https://github.com/user-attachments/assets/92efb0a2-6cf1-4d2f-b29a-c7d4d0cf2268)
